@@ -1,0 +1,9 @@
+[submodule "zuulexample"]
+	path = zuulexample
+	url = https://github.com/RemusRD/zuulexample.git
+[submodule "cursosboot"]
+	path = cursosboot
+	url = https://github.com/RemusRD/cursosboot.git
+[submodule "eurekasample"]
+	path = eurekasample
+	url = https://github.com/RemusRD/eurekasample.git
