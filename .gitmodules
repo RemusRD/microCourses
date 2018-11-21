@@ -7,3 +7,6 @@
 [submodule "eurekasample"]
 	path = eurekasample
 	url = https://github.com/RemusRD/eurekasample.git
+[submodule "OAuth2Sample"]
+	path = OAuth2Sample
+	url = https://github.com/RemusRD/OAuth2Sample.git
